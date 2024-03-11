@@ -1,15 +1,4 @@
-h1{
-    text-align: center;
-    
-
-}
-
-p{
-    color: pink;
-    font-size: 22px;
-    /* la taille */
-    font-family: Arial, Helvetica, sans-serif;
-    /* la police   deferente ecriture*/
-    font-weight: bold;
-    /* rendre le text en gras */
+span{
+    color: #12346f;
+    background-color: rgba(67, 60, 120,0.52);
 }

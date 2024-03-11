@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+
+p{
+    color: pink;
+    font-size: 22px;
+    /* la taille */
+    font-family: Arial, Helvetica, sans-serif;
+    /* la police   def*/
+    font-weight: bold;
+    /* rendre le text en gras */
+}
